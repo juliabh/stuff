@@ -1,1 +1,15 @@
 How I convert Rmd files to ipynb notebooks which can be run in Jupyter notebooks with R kernel.
+
+Need: 
+python, and packages:
+rpy2
+
+R, and packages:
+knitr
+
+To know how to edit path in windows
+
+References:
+https://github.com/lecy/RMD-to-Jupyter
+
+https://www.windows-commandline.com/set-path-command-line/
