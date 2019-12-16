@@ -9,7 +9,20 @@ knitr
 
 To know how to edit path in windows
 
+What to do 
+
+Open anaconda
+go to pyandr environment and open a terminal
+
+If you type notedown, this should open an help/usage file, if notedown has been installed
+Then to convert your file, just use:
+notedown "path\file.Rmd" > "path\file.ipynb"
+if everything is installed correctly, this seems to work just fine (no switches etc required)
+
+run this in a jupyter notebook - change kernel to R, and it should work...
+
 References:
 https://github.com/lecy/RMD-to-Jupyter
+https://pypi.org/project/notedown/
 
 https://www.windows-commandline.com/set-path-command-line/
