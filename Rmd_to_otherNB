@@ -21,6 +21,10 @@ if everything is installed correctly, this seems to work just fine (no switches 
 
 run this in a jupyter notebook - change kernel to R, and it should work...
 
+Notes/what doesn't work:
+Doesn't remove the yaml, so delete that
+Code chunk/ cell names, don't seem to port?
+
 References:
 https://github.com/lecy/RMD-to-Jupyter
 https://pypi.org/project/notedown/
