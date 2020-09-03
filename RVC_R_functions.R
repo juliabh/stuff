@@ -1,12 +1,24 @@
 # Part 1: write your own median function
 
 # create some data:
-## (you can do this however you like, but here is code to generate 10 random numbers with a mean of 5)
-my_numbers <- rnorm(10, mean = 5, sd = 5)
-my_numbers <- round(my_numbers)
+##
+my_nums_even <- c(10:1)
+my_nums_odd <- c(9:1)
+
 
 # create your median function!
 
+
+
+
+
+
+
+
+
+
+# test it out
+my_median(my_numbers) # try it on odd and even lengths
 
 
 # examine the actual median function:
